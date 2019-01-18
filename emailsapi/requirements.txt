@@ -1,0 +1,5 @@
+Flask==1.0.2
+apscheduler==2.1.2
+flask_cors
+requests
+boto3
